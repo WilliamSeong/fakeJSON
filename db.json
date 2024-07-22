@@ -1,2 +1,2 @@
-[{"Hello"},
-{"GoodBye"}]
+[{"message" : "Hello"},
+{"message" : "GoodBye"}]
