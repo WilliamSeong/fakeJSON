@@ -28,17 +28,5 @@
     "title": "Change layout for the content page",
     "body": "Cras tellus ligula, mattis at facilisis eu, ultricies vel elit. Ut aliquam volutpat lacus, a rutrum sem vulputate non.",
     "lane": 3
-  },
-  {
-    "id": 6,
-    "title": "Complete the registration flow",
-    "body": "In vel commodo ipsum. Duis id ipsum semper, condimentum ipsum sit amet, maximus massa.",
-    "lane": 4
-  },
-  {
-    "id": 7,
-    "title": "Create new database instance",
-    "body": " Curabitur nec sem lorem. Donec venenatis, arcu vitae malesuada consequat, dolor ante placerat mi, in fermentum diam ipsum id libero.",
-    "lane": 4
   }
 ]
