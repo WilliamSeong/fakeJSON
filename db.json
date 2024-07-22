@@ -22,11 +22,5 @@
     "title": "Deploy server on acceptance environment",
     "body": "Pellentesque pharetra fermentum sapien, aliquet ultrices ligula mattis porttitor.",
     "lane": 3
-  },
-  {
-    "id": 5,
-    "title": "Change layout for the content page",
-    "body": "Cras tellus ligula, mattis at facilisis eu, ultricies vel elit. Ut aliquam volutpat lacus, a rutrum sem vulputate non.",
-    "lane": 3
   }
 ]
