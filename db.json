@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "message": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "profile": {
+  "message": {
     "name": "typicode"
   }
 }
