@@ -1,6 +1,12 @@
-[{
-  "Test" : [{
-              "stuff" : 1,
-              "other" : 2
-            }]
-}]
+{
+  "Test" : [
+    {
+      "stuff" : 1,
+      "other" : 1
+    },
+    {
+      "stuff" : 2,
+      "other": 2,
+    }
+  ]
+}
