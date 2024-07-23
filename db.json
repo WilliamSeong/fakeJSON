@@ -15,7 +15,7 @@
     {
       "id" : 3,
       "title" : "Pass CS391",
-      "body" : "Take CS391 and pass the class for degree requirements"
+      "body" : "Take CS391 and pass the class for degree requirements",
       "lane" : 2
     },
     {
@@ -27,7 +27,7 @@
     {
       "id" : 5,
       "title" : "Degree Requirements",
-      "body" : "Check degree report to see fufilled courses"
+      "body" : "Check degree report to see fufilled courses",
       "lane" : 3
     },
     {
