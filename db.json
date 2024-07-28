@@ -148,17 +148,7 @@
     },
     { 
       "id": 10,
-      "listId": 3,
-      "title": "Medieval Worlds",
-      "quantity": "EN 122",
-      "credits": 4,
-      "professor": "Goodrich",
-      "date": "Tue, Thu",
-      "time": "3:30pm - 4:45pm"
-    },
-    { 
-      "id": 10,
-      "listId": 3,
+      "listId": 4,
       "title": "Medieval Worlds",
       "quantity": "EN 122",
       "credits": 4,
@@ -168,13 +158,53 @@
     },
     { 
       "id": 11,
-      "listId": 3,
+      "listId": 4,
       "title": "Major Authors",
       "quantity": "EN 221",
       "credits": 4,
       "professor": "Voekel",
       "date": "Mon, Wed, Fri",
       "time": "9:05am - 9:55am"
+    },
+    { 
+      "id": 12,
+      "listId": 4,
+      "title": "Writing of Fiction",
+      "quantity": "EN 221",
+      "credits": 4,
+      "professor": "Dunn",
+      "date": "Tue",
+      "time": "12:30pm - 3:15pm"
+    },
+    { 
+      "id": 13,
+      "listId": 5,
+      "title": "Introduction to Computer Science 1",
+      "quantity": "CS 111",
+      "credits": 4,
+      "professor": "Sullivan",
+      "date": "Mon, Wed, Fri",
+      "time": "10:10am - 11:00am"
+    },
+    { 
+      "id": 14,
+      "listId": 5,
+      "title": "Computer Systems",
+      "quantity": "CS 210",
+      "credits": 4,
+      "professor": "Cadden",
+      "date": "Tue, Thu",
+      "time": "9:30am - 10:45am"
+    },
+    { 
+      "id": 15,
+      "listId": 5,
+      "title": "Distributed Systems",
+      "quantity": "CS 350",
+      "credits": 4,
+      "professor": "Mancuso",
+      "date": "Mon, Wed",
+      "time": "2:30pm - 3:45pm"
     }
   ],
   "lists": [
@@ -196,7 +226,7 @@
     },
     {
       "id":5,
-      "title":"History"
+      "title":"Computer Science"
     }
   ]
 }
