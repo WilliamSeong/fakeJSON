@@ -93,7 +93,24 @@
     }
   ],
   "lists": [
-    { "id": 1, "title": "Daily groceries" },
-    { "id": 2, "title": "Back to School" }
+    {
+      "id": 1,
+      "title": "Biology"
+    },
+    {
+      "id": 2,
+      "title": "Chemistry"
+    },
+    {
+      "id": 3,
+      "title": "Physics"
+    },
+    {"id": 4,
+      "title": "English"
+    },
+    {
+      "id":5,
+      "title":"History"
+    }
   ]
 }
