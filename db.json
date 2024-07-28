@@ -59,38 +59,113 @@
     {
       "id": 1,
       "listId": 1,
-      "title": "Oat Milk",
-      "quantity": 1,
-      "price": 5.99
+      "title": "Biology 1",
+      "quantity": "BI 107",
+      "credits": 4,
+      "professor": "Spilios",
+      "date": "Mon, Wed, Fri",
+      "time": "10:10am - 11:00am"
     },
     { 
       "id": 2,
       "listId": 1,
-      "title": "Eggs",
-      "quantity": 1,
-      "price": 3.99 
+      "title": "Cell Biology",
+      "quantity": "BI 203",
+      "credits": 4,
+      "professor": "Beffert",
+      "date": "Tue, Thu",
+      "time": "9:30am - 10:45am"
     },
-    {
+    { 
       "id": 3,
       "listId": 1,
-      "title": "Cereal",
-      "quantity": 1,
-      "price": 5.99
+      "title": "Systems Physiology",
+      "quantity": "BI 315",
+      "credits": 4,
+      "professor": "Muscedere",
+      "date": "Mon, Wed, Fri",
+      "time": "11:15am - 12:05pm"
     },
-    {
+    { 
       "id": 4,
       "listId": 2,
-      "title": "Notebooks",
-      "quantity": 5,
-      "price": 14.99
+      "title": "General Chemistry 2",
+      "quantity": "CH 102",
+      "credits": 4,
+      "professor": "Bassina",
+      "date": "Mon, Wed, Fri",
+      "time": "8:00am - 8:50am"
     },
-    {
+    { 
       "id": 5,
       "listId": 2,
-      "title": "Mechanical Pencils",
-      "quantity": 2,
-      "price": 4.99
-    }
+      "title": "Organic Chemistry 1",
+      "quantity": "CH 203",
+      "credits": 4,
+      "professor": "Courtney",
+      "date": "Tue, Thu",
+      "time": "8:00am - 9:15am"
+    },
+    { 
+      "id": 6,
+      "listId": 2,
+      "title": "Chemical Synthesis and Analysis",
+      "quantity": "CH 421",
+      "credits": 4,
+      "professor": "Schaus",
+      "date": "Tue, Thu",
+      "time": "11:00am - 12:15pm"
+    },
+    { 
+      "id": 7,
+      "listId": 3,
+      "title": "Physics 1",
+      "quantity": "PY 105",
+      "credits": 4,
+      "professor": "Trunfio",
+      "date": "Mon, Wed, Fri",
+      "time": "8:00am - 9:45am"
+    },
+    { 
+      "id": 8,
+      "listId": 3,
+      "title": "Principles of Physics 1",
+      "quantity": "PY 251",
+      "credits": 4,
+      "professor": "Carey",
+      "date": "Tue, Thu",
+      "time": "12:30pm - 1:45pm"
+    },
+    { 
+      "id": 9,
+      "listId": 3,
+      "title": "Waves and Modern Physics",
+      "quantity": "PY 313",
+      "credits": 4,
+      "professor": "Hu",
+      "date": "Tue, Thu",
+      "time": "11:00am - 12:15pm"
+    },
+    { 
+      "id": 10,
+      "listId": 3,
+      "title": "Medieval Worlds",
+      "quantity": "EN 122",
+      "credits": 4,
+      "professor": "Goodrich",
+      "date": "Tue, Thu",
+      "time": "3:30pm - 4:45pm"
+    },
+    { 
+      "id": 10,
+      "listId": 3,
+      "title": "Medieval Worlds",
+      "quantity": "EN 122",
+      "credits": 4,
+      "professor": "Goodrich",
+      "date": "Tue, Thu",
+      "time": "3:30pm - 4:45pm"
+    },
   ],
   "lists": [
     {
@@ -105,7 +180,8 @@
       "id": 3,
       "title": "Physics"
     },
-    {"id": 4,
+    {
+      "id": 4,
       "title": "English"
     },
     {
