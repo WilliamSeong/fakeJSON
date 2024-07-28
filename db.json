@@ -166,6 +166,16 @@
       "date": "Tue, Thu",
       "time": "3:30pm - 4:45pm"
     },
+    { 
+      "id": 11,
+      "listId": 3,
+      "title": "Major Authors",
+      "quantity": "EN 221",
+      "credits": 4,
+      "professor": "Voekel",
+      "date": "Mon, Wed, Fri",
+      "time": "9:05am - 9:55am"
+    }
   ],
   "lists": [
     {
