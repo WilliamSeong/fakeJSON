@@ -59,21 +59,40 @@
     {
       "id": 1,
       "listId": 1,
-      "title": "Milk",
+      "title": "Oat Milk",
       "quantity": 1,
-      "price": 6.99
+      "price": 5.99
     },
-    { "id": 2, "listId": 1, "title": "Rice", "quantity": 1, "price": 0.99 },
+    { 
+      "id": 2,
+      "listId": 1,
+      "title": "Eggs",
+      "quantity": 1,
+      "price": 3.99 
+    },
     {
       "id": 3,
-      "listId": 2,
-      "title": "Birthday Cake",
+      "listId": 1,
+      "title": "Cereal",
       "quantity": 1,
-      "price": 8.99
+      "price": 5.99
+    {
+      "id": 4,
+      "listId": 2,
+      "title": "Notebooks",
+      "quantity": 5,
+      "price": 14.99
+    },
+    {
+      "id": 5,
+      "listId": 2,
+      "title": "Mechanical Pencils",
+      "quantity": 2,
+      "price": 4.99
     }
   ],
   "lists": [
     { "id": 1, "title": "Daily groceries" },
-    { "id": 2, "title": "Birthday youngest child" }
+    { "id": 2, "title": "Back to School" }
   ]
 }
